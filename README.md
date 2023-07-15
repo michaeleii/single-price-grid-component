@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-react-tailwindcss-WbIkUWGn-0](https://www.frontendmentor.io/solutions/single-price-grid-component-react-tailwindcss-WbIkUWGn-0)
-- Live Site URL: [michaellei-single-price-grid.netlify.app](michaellei-single-price-grid.netlify.app)
+- Live Site URL: [https://michaellei-single-price-grid.netlify.app/](https://michaellei-single-price-grid.netlify.app/)
 
 ### Links
 
