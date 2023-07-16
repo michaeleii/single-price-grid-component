@@ -30,11 +30,6 @@ Users should be able to:
 - Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-react-tailwindcss-WbIkUWGn-0](https://www.frontendmentor.io/solutions/single-price-grid-component-react-tailwindcss-WbIkUWGn-0)
 - Live Site URL: [https://michaellei-single-price-grid.netlify.app/](https://michaellei-single-price-grid.netlify.app/)
 
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-signup-form-react-tailwindcss-sSI8WL6TbB](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-react-tailwindcss-sSI8WL6TbB)
-- Live Site URL: [https://michaellei-intro-signup-form.netlify.app/](https://michaellei-intro-signup-form.netlify.app/)
-
 ## Built with
 
 - CSS Flexbox
